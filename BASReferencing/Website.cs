@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BASReferencing
 {
-    public partial class Form1 : Form
+    public partial class Website : Form
     {
-        public Form1()
+        public Website()
         {
             InitializeComponent();
         }
